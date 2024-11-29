@@ -14,5 +14,5 @@ export const connectDB = async () => {
   }
 };
 
-// mongodb://localhost:27017
+// mongodb://localhost:27017/ecommerce
 // mongodb+srv://root:root1234@cluster0.m6cq9.mongodb.net/ecommerce?retryWrites=true&w=majority&appName=Cluster0
