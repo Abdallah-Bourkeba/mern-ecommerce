@@ -3,6 +3,9 @@
 ## Description
 This is a robust and scalable full-stack e-commerce application built with a modern tech stack. The application supports user authentication, product management, and payment processing, ensuring a seamless shopping experience.
 
+## Demo
+Check out the live demo [here](https://mern-ecommerce-089c.onrender.com/).
+
 ## Features
 - **User Authentication**: Secure login and registration using JWT and bcrypt.
 - **Product Management**: Comprehensive product catalog with CRUD operations.
